@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">নারীর স্বাস্থ্য</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string-array name="health_items">
+
+        <item>BUlbul</item>
+        <item>BUlbul</item>
+        <item>BUlbul</item>
+        <item>BUlbul</item>
+        <item>BUlbul</item>
+
+    </string-array>
+</resources>

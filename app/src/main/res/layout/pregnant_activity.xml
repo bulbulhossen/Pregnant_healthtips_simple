@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/ScrollView01"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true"
+    android:scrollbars="vertical">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#fff"
+        android:orientation="vertical"
+        android:padding="14dp"
+        tools:context=".Health_SolutionView.Pregnant">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:text="গর্ভকালীন ৫ সাধারণ সমস্যা"
+            android:textColor="#000"
+            android:textSize="25sp" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:src="@drawable/pregnancy" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="মা হওয়ার সময় একটি মেয়ের শরীর ও মনে ঘটে নানা স্বাভাবিক পরিবর্তন ও প্রতিক্রিয়া। প্রায় প্রতিটি মেয়েরই এমন কিছু শারীরিক সমস্যা দেখা দেয়, যা সহজে মানিয়ে নেওয়ার জন্য চাই কিছু বাড়তি যত্ন। চলুন জেনে নিই এমন পাঁচটি পরিচিত সমস্যার কথা।
+সকালে…\n\n
+সকালবেলা বিছানা ছাড়ার পরই প্রচণ্ড বমি ভাব, বমি, মাথা ঘোরা—এই উপসর্গের নাম মর্নিং সিকনেস। প্রথম সন্তান ধারণের সময় এটি বেশি হয় এবং দেখা দেয় প্রথম ও দ্বিতীয় মাসেই, তিন মাসের পর সাধারণত সেরে যায়। ২৫ শতাংশ নারীর এই সমস্যা একেবারে নাও হতে পারে। গর্ভাবস্থায় রক্তে কিছু হরমোনের মাত্রা বেড়ে যাওয়াই এর কারণ।
+"
+            android:textColor="#000" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="মর্নিং সিকনেস থেকে রক্ষার উপায়া"
+            android:textColor="#000"
+            android:textSize="20sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:text="১. সকালে একবারে বেশি কিছু না খেয়ে অল্প অল্প করে শুকনো খাবার, যেমন টোস্ট বিস্কুট ও আমিষসমৃদ্ধ খাবার খান।\n
+২. তৈলাক্ত খাবার এড়িয়ে চলুন, যে খাবার দেখলে বা খেলে বমির উদ্রেক হয় তাও এড়িয়ে চলুন।\n
+৩. চিকিৎসকের পরামর্শে ওষুধ সেবন করতে পারেন।\n
+৪. অতিরিক্ত বমি হলে বা পানিশূন্যতা বা লবণশূন্যতা দেখা দিলে অবশ্যই চিকিৎসকের শরণাপন্ন হন। \n"
+            android:textColor="#000" />
+
+    </LinearLayout>
+</ScrollView>
